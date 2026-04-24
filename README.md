@@ -1,4 +1,4 @@
-# Welcome to my website!  \quad \quad  Contact 
+# Welcome to my website!  
 
 <table>
   <tr>
@@ -6,12 +6,10 @@
       <img src="pic.png" width="200">
     </td>
     <td>
-      Sima Ahsani, Washington and Lee University
-    <ul>
-        <li> Mathematics Department</li>     
-        <li> 304 Chavis Hall </li>
-        <li> Email: sahsani@wlu.edu </li>
-      </ul>
+      <p> Sima Ahsani, Washington and Lee University </p>
+        <p> Mathematics Department</p>     
+        <p> 304 Chavis Hall </p>
+        <p> Email: sahsani@wlu.edu </p>
     </td>
   </tr>
 </table>
