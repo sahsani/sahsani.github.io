@@ -1,3 +1,6 @@
+[Home](README.md) | [About](aboutme.md) | [Research](research.md) | [Teaching](Teaching.md)
+
+---
 
 # Welcome to my website!  
 
