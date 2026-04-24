@@ -1,4 +1,4 @@
-[Home](README.md) | [About](aboutme.md) | [Research](research.md) | [Teaching](Teaching.md)
+[Home](README.md)&nbsp;&nbsp;| &nbsp;&nbsp; [About](aboutme.md) &nbsp;&nbsp;| &nbsp;&nbsp; [Research](research.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Teaching](Teaching.md)
 
 ---
 
