@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-## About Me
+## [About Me](about.md)
 
 I am currently a Visiting Assistant Professor in the Department of Mathematics at Washington and Lee University. I earned my Ph.D. in Mathematics from Auburn University, with a specialization in Linear Algebra and Matrix Theory under the supervision of Professor Tin Yau Tam and Professor Ming Liao.
 
