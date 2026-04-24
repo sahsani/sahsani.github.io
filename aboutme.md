@@ -2,3 +2,4 @@ I am currently a Visiting Assistant Professor in the Department of Mathematics a
 
 Before joining Washington and Lee University, I served as a Visiting Assistant Professor at Emory University in Atlanta, GA, from 2021 to 2023 and at Auburn University from 2019 to 2021.
 
+
